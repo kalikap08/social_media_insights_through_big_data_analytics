@@ -1,4 +1,4 @@
-# social_media_insights_through_big_data_analytics
+@ social_media_insights_through_big_data_analytics
 
 ##Project Overview
 The explosive growth of social media platforms has led to massive volumes of user-generated content, creating new opportunities for Big Data Analytics. This project applies machine learning and real-time data analytics to model large-scale social media interactions, uncovering trends related to user behavior, emotional well-being, and engagement patterns.
